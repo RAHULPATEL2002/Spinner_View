@@ -21,7 +21,7 @@ SpinnerView/
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/SpinnerView.git
+   git clone https://github.com/RAHULPATEL2002/SpinnerView.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle and build the project.
@@ -92,9 +92,6 @@ Include screenshots of the app here.
 
 ## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the **MIT License**.
 
 ---
 ### Author
