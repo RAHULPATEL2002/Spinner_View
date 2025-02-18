@@ -83,12 +83,6 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 
-## Screenshots
-Include screenshots of the app here.
-
-| Spinner View |
-|-------------|
-| ![Spinner Screenshot](path/to/image.png) |
 
 ## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request.
